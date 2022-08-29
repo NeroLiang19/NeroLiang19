@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**NeroLiang19/NeroLiang19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Nero.Liang. 👋
 
 - 🔭 I’m currently working on Neewer.
 - 🌱 I’m a pupil of back-end learning.
